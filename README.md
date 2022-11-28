@@ -1,1 +1,1 @@
-# Postgre-SQL-course
+# Postgre SQL course
